@@ -1,5 +1,4 @@
 # Assignment-2
-# ARTI 308 - Lab 2
 
 ## Dataset
 Dataset Name: Iris Dataset
